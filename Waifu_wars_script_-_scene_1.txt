@@ -1,0 +1,14 @@
+
+[Female School mate] - Wow [Insert character name], it's amazing we survived that plane crash. But now we're stuck on this island.
+			What do we do?
+
+[Insert character name] - 1 - I think I've broken every bone in my body
+			- 2 - Why are you wearing a bikini?
+			- 3 - I sure hope this isn't one of those infamous cat girl islands
+
+	Option:
+	1 - Alright John, I'll go search for help
+
+	2 - Because it's very hot out here, John
+
+	3 - Nya... No I don't think it is, you're so silly
